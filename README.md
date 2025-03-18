@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Nadine and I am a Quantophant!
 
-<img src="https://www.quantophant.io/assets/quantophant_transparent.dc1ebe06.png"
+<img src="https://www.quantophant.io/assets/quantophant_transparent-dc1ebe06.png"
      alt="Quantophant"
      style="float: left; margin-right: 10px;" height="250" weight="300" />
 
